@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranscriptionMerging", "TranscriptionMerging\TranscriptionMerging.csproj", "{ADC3D754-0B36-4E4A-B7F3-B410CB4B2387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC3D754-0B36-4E4A-B7F3-B410CB4B2387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC3D754-0B36-4E4A-B7F3-B410CB4B2387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC3D754-0B36-4E4A-B7F3-B410CB4B2387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC3D754-0B36-4E4A-B7F3-B410CB4B2387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
